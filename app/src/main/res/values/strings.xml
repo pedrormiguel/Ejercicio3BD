@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="expressionDarlin">
+        Nací en Santo Domingo, República Dominicana a los 19 días del mes
+        de agosto del año 1996, hijo del señor Rafael Reyes y la señora
+        Sixta Carrión. Soy una persona común, estudio, trabajo por mi cuenta,
+        tengo afición por la comida más hacerlas que degustarlas, hago de vez
+        en cuando parrilladas con amigos o simplemente me centro en practicar
+        nuevos platos ya que no siempre saben bien al primer intento, me gusta
+        aprender cosas nuevas para salir de mi zona de confort. Amo hacer ejercicio
+        me siento libre cada vez que puedo entrenar.
+    </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
